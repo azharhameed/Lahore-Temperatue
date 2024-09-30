@@ -1,2 +1,2 @@
-# Lahore-Temperatue
+# Lahore-Temperature
 Lahore Temperature from 2013 to 2023
